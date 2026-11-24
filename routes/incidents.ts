@@ -4,7 +4,7 @@ import { pool } from "../db";
 
 const router = Router();
 
-// GET all flood incidents
+
 router.get("/", async (_req, res) => {
   try {
     const { rows } = await pool.query(`
