@@ -1,0 +1,7 @@
+{
+  "name": "Agusan River Flood Risk & Evacuation GIS",
+  "description": "Web GIS dashboard for Agusan River flood risk assessment, evacuation center locator, and spatial analysis in Butuan City, Philippines.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
